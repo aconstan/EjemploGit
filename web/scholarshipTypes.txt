@@ -1,0 +1,11 @@
+Excellence Scholarship:
+Given to the most brilliant students in Mexican high schools, covers 90% of tuition expenses.
+
+Academic Scholarship and Loan:
+Given to academic high achievers whose economic condition does not allow them to cover the complete tuition expenses. They have to pay for the loan later.
+ 
+Sports Scholarship-Credit:
+Given to students that distinguish themselves for their academic and athletic performance.
+
+Líderes del Mañana scholarship:
+Students which are leaders with little economic resources to pay for higher education. It covers 100% of course fees.
